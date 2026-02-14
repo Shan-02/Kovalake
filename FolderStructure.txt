@@ -1,0 +1,59 @@
+Folder PATH listing for volume OS
+Volume serial number is 2E8A-89B0
+C:.
+|   FolderStructure.txt
+|   Kovalake.py
+|   Kovap.py
+|   quality_report.py
+|   schema.sql
+|   snapshot_dbmaker.py
+|   structure.txt
+|   
++---backend
+|   |   db.py
+|   |   main.py
+|   |   queries.py
+|   |   schemas.py
+|   |   
+|   +---routers
+|   |   |   compare.py
+|   |   |   filters.py
+|   |   |   grades.py
+|   |   |   players.py
+|   |   |   snapshots.py
+|   |   |   tags.py
+|   |   |   
+|   |   \---__pycache__
+|   |           compare.cpython-313.pyc
+|   |           filters.cpython-313.pyc
+|   |           grades.cpython-313.pyc
+|   |           players.cpython-313.pyc
+|   |           snapshots.cpython-313.pyc
+|   |           tags.cpython-313.pyc
+|   |           
+|   \---__pycache__
+|           db.cpython-313.pyc
+|           main.cpython-313.pyc
+|           queries.cpython-313.pyc
+|           schemas.cpython-313.pyc
+|           __init__.cpython-313.pyc
+|           
++---Betis
+|       BetisMay24.html
+|       RegensMay24.rtf
+|       
++---data
+|       kovalake.sqlite
+|       kovalake_old.sqlite
+|       
+\---out
+        Betisnew.csv
+        Betisnew.json
+        betis_may24_clean.csv
+        betis_may24_clean.json
+        quality_checks.csv
+        quality_columns.csv
+        quality_problem_columns.csv
+        V4.csv
+        V4.json
+        
